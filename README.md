@@ -1,4 +1,4 @@
-# data-analytics-portfolio
+# Data-analytics-portfolio
 This repository contains data analytics projects built using SQL, Python, and Power BI.
 The projects focus on solving real-world business problems using data.
 
