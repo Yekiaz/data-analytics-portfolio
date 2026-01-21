@@ -1,0 +1,3 @@
+-- SQL E-commerce Sales Analysis
+-- Author: Yekiaz
+-- Description: SQL queries to analyze e-commerce sales data
