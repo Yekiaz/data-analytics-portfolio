@@ -8,10 +8,10 @@ Analyze e-commerce sales data using SQL to answer key business questions.
 
 ## Business Questions
 
-- Total revenue by month
-- Top-performing products
-- Top customers
-- Regional sales performance
+- Which product categories generate the highest total revenue?
+- Which individual products contribute the most to overall sales?
+- Who are the top customers based on total revenue?
+- How does each customer’s revenue compare to the average customer revenue?
  
 ## Results
 
