@@ -19,6 +19,9 @@ Analyze e-commerce sales data using SQL to answer key business questions.
 
 ![Revenue by Category](SQL_REVENUE_BY_CATEGORY.png)
 
+### Top 10 Products by Revenue
+![Top 10 Products by Revenue](SQL_TOP_10_PRODUCT_BY_REVENUE.png)
+
 ## Insights
 - Books and Electronics generate the highest revenue, indicating strong customer demand in these categories.
 - Beauty and Sports contribute comparatively lower revenue and may require targeted promotions or pricing strategies.
