@@ -4,7 +4,7 @@
 Analyze e-commerce sales data using SQL to answer key business questions.
 
 ## Tools Used
-- SQL (MySQL / PostgreSQL)
+- SQL 
 
 ## Business Questions
 
@@ -24,6 +24,13 @@ Analyze e-commerce sales data using SQL to answer key business questions.
 
 ### Customer Revenue Analysis (CTE + Window Function)
 ![Customer Revenue CTE Avg](SQL_CUSTOMER_REVENUE_CTE_AVG.png)
+
+### Revenue by Region (JOIN)
+
+This analysis uses an INNER JOIN between sales and geography tables
+to calculate total sales by region.
+![Revenue by Region](SQL_JOIN_Revenue_By_Region.png)
+
 
 ## Insights
 - Books and Electronics generate the highest revenue, indicating strong customer demand in these categories.
