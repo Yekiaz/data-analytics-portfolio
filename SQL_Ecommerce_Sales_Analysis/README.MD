@@ -29,7 +29,7 @@ Analyze e-commerce sales data using SQL to answer key business questions.
 
 This analysis uses an INNER JOIN between sales and geography tables
 to calculate total sales by region.
-![Revenue by Region](SQL_JOIN_Revenue_By_Region.png)
+![Revenue by Region](SQL_JOIN_REVENUE_BY_REGION.png)
 
 
 ## Insights
