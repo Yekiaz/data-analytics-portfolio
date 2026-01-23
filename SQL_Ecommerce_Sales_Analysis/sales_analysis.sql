@@ -40,3 +40,13 @@ SELECT
     ROUND(AVG(customer_revenue) OVER (), 2) AS avg_revenue
 FROM customer_revenue
 ORDER BY customer_revenue DESC;
+
+-- Total revenue by country
+SELECT
+    g.Region,
+    ROUND(SUM(s.Amount), 2) AS total_sales
+FROM sales s
+INNER JOIN geo g
+    ON s.GeoID = g.GeoID
+GROUP BY g.Region
+ORDER BY total_sales DESC;
