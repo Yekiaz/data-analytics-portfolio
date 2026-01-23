@@ -16,11 +16,13 @@ Analyze e-commerce sales data using SQL to answer key business questions.
 ## Results
 
 ### Revenue by Product Category
-
 ![Revenue by Category](SQL_REVENUE_BY_CATEGORY.png)
 
 ### Top 10 Products by Revenue
 ![Top 10 Products by Revenue](SQL_TOP_10_PRODUCT_BY_REVENUE.png)
+
+### Customer Revenue Analysis (CTE + Window Function)
+![Customer Revenue CTE Avg](SQL_CUSTOMER_REVENUE_CTE_AVG.png)
 
 ## Insights
 - Books and Electronics generate the highest revenue, indicating strong customer demand in these categories.
